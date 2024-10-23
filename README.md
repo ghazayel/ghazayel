@@ -1,8 +1,6 @@
-## Hi there 👋
-
 <!-- **ghazayel/ghazayel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-# 👋 Hi there, I'm Mahmoud Ghazayel
+# 👋 Hello world, I'm Mahmoud Ghazayel
 
 I am a journalist and social entrepreneur from Lebanon with a passion for combating misinformation and enhancing digital literacy. I enjoy working on projects that bridge the gap between technology and media integrity.
 
@@ -34,11 +32,8 @@ I am a journalist and social entrepreneur from Lebanon with a passion for combat
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghazayel&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghazayel&layout=compact&theme=radical)
 
 ---
 
 🤝 **Always open for new opportunities and collaboration!**
-```
