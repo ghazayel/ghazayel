@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **ghazayel/ghazayel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 👋 Hi there, I'm Mahmoud Ghazayel
@@ -43,4 +42,3 @@ I am a journalist and social entrepreneur from Lebanon with a passion for combat
 
 🤝 **Always open for new opportunities and collaboration!**
 ```
--->
